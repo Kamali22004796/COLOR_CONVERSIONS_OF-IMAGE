@@ -52,8 +52,8 @@ Split and merge HSV Image
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 ```
+## Output:
 
-##OUTPUT 
 
 
 ![307216798-0eb621aa-2159-478d-a410-602ddb5e8251](https://github.com/Kamali22004796/COLOR_CONVERSIONS_OF-IMAGE/assets/120567837/5d51b5e9-eadb-41b3-aeea-7ad210998f30)
@@ -66,7 +66,7 @@ Split and merge HSV Image
     image=cv2.imread('images.jpg',0)
     cv2.imwrite('natural.jpg',image)
 ```
-##OUTPUT
+## Output:
 
 
 ![307216903-9d717855-bb9d-41e6-916f-ac3205453f25](https://github.com/Kamali22004796/COLOR_CONVERSIONS_OF-IMAGE/assets/120567837/b2eac78e-94e8-4584-be44-779b3c89e322)
@@ -79,7 +79,7 @@ Split and merge HSV Image
     print(image.shape)
 ```
 
-##OUTPUT
+## Output:
 
 
 ![307217027-46902cb3-9d2f-4729-98a7-b9e04fc95ca2](https://github.com/Kamali22004796/COLOR_CONVERSIONS_OF-IMAGE/assets/120567837/1c9dce50-ef51-4f94-9cd7-60d39e0b54a8)
@@ -102,7 +102,7 @@ Split and merge HSV Image
     cv2.destroyAllWindows()
 ```
 
-##OUTPUT
+## Output:
 
 
 ![307217437-701c00d5-76d0-4a10-a74f-0ba58420a05a](https://github.com/Kamali22004796/COLOR_CONVERSIONS_OF-IMAGE/assets/120567837/1cbcc976-f166-4568-831d-4521954bc4c5)
@@ -120,7 +120,7 @@ Split and merge HSV Image
    cv2.destroyAllWindows()
 ```
 
-##OUTPUT
+## Output:
 
 
 ![307217496-2d007fda-b32b-4d5f-a042-e1f685651395](https://github.com/Kamali22004796/COLOR_CONVERSIONS_OF-IMAGE/assets/120567837/1f93cf1b-095f-4179-ae2f-eede85e2e1e4)
@@ -143,7 +143,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-##OUTPUT
+## Output:
 
 
 ![307217659-4bd1f54d-36e3-4278-afc6-1f60481e10e0](https://github.com/Kamali22004796/COLOR_CONVERSIONS_OF-IMAGE/assets/120567837/5201d541-b3a1-4147-a5a9-86ceee3a8e70)
@@ -182,7 +182,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-##OUTPUT
+## Output:
 
 
 ![307217911-cfe68694-7e42-42f6-80f4-74527dcd997c](https://github.com/Kamali22004796/COLOR_CONVERSIONS_OF-IMAGE/assets/120567837/acccf2c3-9b42-4ac2-b968-2d7b17ee5825)
@@ -211,7 +211,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-##OUTPUT
+## Output:
 
 
 ![307218032-d54056a6-12fa-4d52-b7fe-9880b7062b73](https://github.com/Kamali22004796/COLOR_CONVERSIONS_OF-IMAGE/assets/120567837/9c2753ab-b9bf-43e3-adf0-609d2be05806)
@@ -243,7 +243,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-##OUTPUT
+## Output:
 
 
 ![307218143-e1fac2e4-dc15-45f3-98b5-81c65311f33e](https://github.com/Kamali22004796/COLOR_CONVERSIONS_OF-IMAGE/assets/120567837/d6106171-698b-4750-84af-ad14c9427957)
@@ -278,7 +278,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-##OUTPUT
+## Output:
 
 
 ![307218377-06d3fe79-5611-494f-be36-7cf48571e65f](https://github.com/Kamali22004796/COLOR_CONVERSIONS_OF-IMAGE/assets/120567837/148bd538-dddc-46b6-ba1a-19608b3bf0cf)
